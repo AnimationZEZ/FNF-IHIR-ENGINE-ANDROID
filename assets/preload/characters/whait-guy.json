@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				520,
+				380
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				510,
+				377
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				490,
+				380
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				530,
+				380
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				516,
+				372
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/whait-guy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "whait-guy",
+	"flip_x": false,
+	"healthbar_colors": [
+		237,
+		237,
+		237
+	],
+	"camera_position": [
+		-120,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}
