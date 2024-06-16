@@ -81,8 +81,19 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
+			['Ihir Dev'],
+			['Naufalhady24', 'Naufal', 'IHIR GUY, Composer, Artist, Animator, Charter, Naufal VA', 'https://youtube.com/@Naufalhady24?si=D_SaKkE8ytdEUkWS', 'EAEAEA'],
+			['Hfz1105', 'Hfz', 'Artist, Animator, Charter, Hfz VA', 'https://youtube.com/@Hfz1105?si=i-yyDhA_Yqk1FIg-', '2C5FBA'],
+			['NaranRendah', 'Naran', 'Composer, Charter, Coder', 'https://youtube.com/@NaranRendah?si=j8ZUKmBE-racnV7O', '828282'],
+			['Walvenn_89', 'walvenn', 'Charter', 'https://youtube.com/@Walvenn_89?si=XOOFfN73AAMmLP1W', '00BBFF'],
+			['Beeb8394', 'Beeb', 'Artist, Animator', 'https://youtube.com/@beeb8394?si=uvhjdtdhux3HkNkA', 'EAEAEA'],
+			['AnimKV', 'Kave', 'Coder', 'https://youtube.com/@animkv?si=fNLb9H8WzlW9LeNE', '2C5FBA'],
+			['Biib1824', 'biib', 'Whitenn Guy Sprites', 'https://www.youtube.com/@Biib1824', '00BBFF'],
+			[''],
+			['Special Thanks'],
+			['LG64', 'LG64', 'Make A Android Port Of This Mod', 'https://youtube.com/@levirealxd2?si=GCu9RJMKO3qWiFi-', '5C00FF'],
 			['Android Port'],
-			['idklool', 'nothing', 'Hi I ported this again', 'https://youtube.com/@idklool01', 'FFFFFF'],
+			['idklool', 'nothing', 'Base Psych Engine 0.6.3 Apk Port', 'https://youtube.com/@idklool121', 'FFFFFF'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
