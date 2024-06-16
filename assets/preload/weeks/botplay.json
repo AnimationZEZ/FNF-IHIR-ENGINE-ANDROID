@@ -1,8 +1,8 @@
 {
 	"songs": [
 		[
-			"ringtone",
-			"hp",
+			"botplay",
+			"null",
 			[
 				146,
 				113,
@@ -13,20 +13,20 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"difficulties": "angkat-woy",
+	"difficulties": "Hard",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "",
+	"storyName": "Your New Week",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
-	"weekBefore": "weekihir",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
 	"startUnlocked": true
 }
