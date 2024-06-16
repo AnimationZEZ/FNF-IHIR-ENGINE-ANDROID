@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Author",
+			"Naufal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Normies",
+			"Naufal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Ihir",
+			"Naufal",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "ihir",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "Bocah Ihir coy",
+	"weekName": "Week Ihir",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

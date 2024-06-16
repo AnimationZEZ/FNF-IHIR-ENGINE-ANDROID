@@ -1,0 +1,32 @@
+{
+	"storyName": "Extras Songs",
+	"difficulties": "Hard, Png",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"lore",
+			"whitenguy-icon",
+			[
+				160,
+				160,
+				160
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}
