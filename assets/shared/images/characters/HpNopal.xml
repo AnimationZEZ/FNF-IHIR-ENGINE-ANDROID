@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HpNopal.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="atasHp0000" x="3623" y="3139" width="407" height="996"/>
+	<SubTexture name="atasHp0001" x="3623" y="3139" width="407" height="996"/>
+	<SubTexture name="atasHp0002" x="2417" y="3337" width="407" height="996"/>
+	<SubTexture name="atasHp0003" x="2417" y="3337" width="407" height="996"/>
+	<SubTexture name="atasHp0004" x="2829" y="3826" width="407" height="996"/>
+	<SubTexture name="atasHp0005" x="2829" y="3826" width="407" height="996"/>
+	<SubTexture name="atasHp0006" x="5" y="4002" width="407" height="996"/>
+	<SubTexture name="atasHp0007" x="5" y="4002" width="407" height="996"/>
+	<SubTexture name="atasHp0008" x="417" y="4002" width="407" height="996"/>
+	<SubTexture name="atasHp0009" x="417" y="4002" width="407" height="996"/>
+	<SubTexture name="bawahHp0000" x="5" y="1743" width="652" height="880"/>
+	<SubTexture name="bawahHp0001" x="5" y="1743" width="652" height="880"/>
+	<SubTexture name="bawahHp0002" x="662" y="1743" width="652" height="880"/>
+	<SubTexture name="bawahHp0003" x="662" y="1743" width="652" height="880"/>
+	<SubTexture name="bawahHp0004" x="1319" y="1743" width="652" height="880"/>
+	<SubTexture name="bawahHp0005" x="1319" y="1743" width="652" height="880"/>
+	<SubTexture name="bawahHp0006" x="1976" y="1765" width="652" height="880"/>
+	<SubTexture name="bawahHp0007" x="1976" y="1765" width="652" height="880"/>
+	<SubTexture name="bawahHp0008" x="2633" y="1765" width="652" height="880"/>
+	<SubTexture name="bawahHp0009" x="2633" y="1765" width="652" height="880"/>
+	<SubTexture name="hpIdle0000" x="3290" y="1765" width="598" height="682"/>
+	<SubTexture name="hpIdle0001" x="3290" y="1765" width="598" height="682"/>
+	<SubTexture name="hpIdle0002" x="3290" y="2452" width="598" height="682"/>
+	<SubTexture name="hpIdle0003" x="3290" y="2452" width="598" height="682"/>
+	<SubTexture name="hpIdle0004" x="5" y="2628" width="598" height="682"/>
+	<SubTexture name="hpIdle0005" x="608" y="2628" width="598" height="682"/>
+	<SubTexture name="hpIdle0006" x="1211" y="2628" width="598" height="682"/>
+	<SubTexture name="hpIdle0007" x="1814" y="2650" width="598" height="682"/>
+	<SubTexture name="hpIdle0008" x="2417" y="2650" width="598" height="682"/>
+	<SubTexture name="hpIdle0009" x="3020" y="3139" width="598" height="682"/>
+	<SubTexture name="hpIdle0010" x="5" y="3315" width="598" height="682"/>
+	<SubTexture name="hpIdle0011" x="608" y="3315" width="598" height="682"/>
+	<SubTexture name="hpIdle0012" x="1211" y="3315" width="598" height="682"/>
+	<SubTexture name="hpIdle0013" x="1814" y="3337" width="598" height="682"/>
+	<SubTexture name="hpIdle0014" x="1814" y="3337" width="598" height="682"/>
+	<SubTexture name="hpIdle0015" x="1814" y="3337" width="598" height="682"/>
+	<SubTexture name="hpIdle0016" x="1814" y="3337" width="598" height="682"/>
+	<SubTexture name="hpIdle0017" x="1814" y="3337" width="598" height="682"/>
+	<SubTexture name="hpIdle0018" x="1814" y="3337" width="598" height="682"/>
+	<SubTexture name="hpIdle0019" x="1814" y="3337" width="598" height="682"/>
+	<SubTexture name="kananHp0000" x="5" y="5" width="1262" height="567"/>
+	<SubTexture name="kananHp0001" x="5" y="5" width="1262" height="567"/>
+	<SubTexture name="kananHp0002" x="1272" y="5" width="1262" height="567"/>
+	<SubTexture name="kananHp0003" x="1272" y="5" width="1262" height="567"/>
+	<SubTexture name="kananHp0004" x="2539" y="5" width="1262" height="567"/>
+	<SubTexture name="kananHp0005" x="2539" y="5" width="1262" height="567"/>
+	<SubTexture name="kananHp0006" x="5" y="577" width="1262" height="567"/>
+	<SubTexture name="kananHp0007" x="5" y="577" width="1262" height="567"/>
+	<SubTexture name="kananHp0008" x="1272" y="577" width="1262" height="567"/>
+	<SubTexture name="kananHp0009" x="1272" y="577" width="1262" height="567"/>
+	<SubTexture name="kiriHp0000" x="2539" y="577" width="991" height="589"/>
+	<SubTexture name="kiriHp0001" x="2539" y="577" width="991" height="589"/>
+	<SubTexture name="kiriHp0002" x="5" y="1149" width="991" height="589"/>
+	<SubTexture name="kiriHp0003" x="5" y="1149" width="991" height="589"/>
+	<SubTexture name="kiriHp0004" x="1001" y="1149" width="991" height="589"/>
+	<SubTexture name="kiriHp0005" x="1001" y="1149" width="991" height="589"/>
+	<SubTexture name="kiriHp0006" x="1997" y="1171" width="991" height="589"/>
+	<SubTexture name="kiriHp0007" x="1997" y="1171" width="991" height="589"/>
+	<SubTexture name="kiriHp0008" x="2993" y="1171" width="991" height="589"/>
+	<SubTexture name="kiriHp0009" x="2993" y="1171" width="991" height="589"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whaitguy.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="2324" y="0" width="436" height="1038" frameX="-520" frameY="-272" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="idle0001" x="2324" y="1038" width="420" height="1030" frameX="-529" frameY="-280" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="idle0002" x="2760" y="1007" width="430" height="1040" frameX="-516" frameY="-270" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="idle0003" x="1889" y="0" width="435" height="1047" frameX="-508" frameY="-263" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="left0000" x="0" y="0" width="690" height="1022" frameX="-244" frameY="-278" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="left0001" x="690" y="0" width="654" height="1018" frameX="-288" frameY="-281" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="down0000" x="1344" y="1158" width="545" height="804" frameX="-454" frameY="-502" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="down0001" x="0" y="2155" width="501" height="814" frameX="-470" frameY="-492" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="up0000" x="1344" y="0" width="545" height="1158" frameX="-440" frameY="-52" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="up0001" x="0" y="1022" width="579" height="1133" frameX="-422" frameY="-77" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="right0000" x="579" y="1022" width="477" height="1008" frameX="-692" frameY="-297" frameWidth="1500" frameHeight="1500"/>
+	<SubTexture name="right0001" x="2760" y="0" width="447" height="1007" frameX="-692" frameY="-298" frameWidth="1500" frameHeight="1500"/>
+</TextureAtlas>

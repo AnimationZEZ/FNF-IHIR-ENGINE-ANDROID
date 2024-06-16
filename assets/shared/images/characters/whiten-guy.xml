@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="whiten-guy.png" width="3948" height="2963">
+  <SubTexture name="down1" x="0" y="0"  width="730" height="849" frameX="-392" frameY="-395" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="down2" x="730" y="0"  width="712" height="877" frameX="-400" frameY="-367" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="down3" x="1442" y="0"  width="703" height="886" frameX="-404" frameY="-357" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="right1" x="2145" y="0"  width="697" height="953" frameX="-579" frameY="-311" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="right2" x="2842" y="0"  width="689" height="973" frameX="-575" frameY="-290" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="idle1" x="3531" y="0"  width="417" height="981" frameX="-529" frameY="-266" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="right3" x="0" y="849"  width="687" height="978" frameX="-574" frameY="-285" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="idle3" x="687" y="877"  width="414" height="992" frameX="-514" frameY="-255" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="left3" x="1101" y="886"  width="632" height="993" frameX="-468" frameY="-248" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="idle2" x="1733" y="886"  width="412" height="996" frameX="-533" frameY="-251" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="idle4" x="2145" y="953"  width="414" height="995" frameX="-505" frameY="-251" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="left2" x="2559" y="973"  width="625" height="998" frameX="-471" frameY="-243" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="left1" x="3184" y="981"  width="597" height="1008" frameX="-477" frameY="-234" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="up1" x="0" y="1827"  width="675" height="1097" frameX="-376" frameY="-150" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="up3" x="675" y="1879"  width="706" height="1075" frameX="-361" frameY="-171" frameWidth="1500" frameHeight="1500"/>
+  <SubTexture name="up2" x="1381" y="1882"  width="699" height="1081" frameX="-364" frameY="-165" frameWidth="1500" frameHeight="1500"/>
+</TextureAtlas>
